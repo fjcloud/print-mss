@@ -1,3 +1,5 @@
+FROM registry.redhat.io/rhel9/python-312
+
 USER 0
 WORKDIR /app
 
